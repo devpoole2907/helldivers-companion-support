@@ -14,6 +14,6 @@ Or email us at:
 
 Your privacy is important to us. To view our privacy policy, please visit:
 
-[Privacy Policy](../privacy-policy/)
+[Privacy Policy](https://devpoole2907.github.io/helldivers-companion-support/privacy-policy/)
 
 Thank you for using War Monitor for Helldivers 2!
