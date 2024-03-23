@@ -8,6 +8,10 @@ We are committed to protecting your privacy. This Privacy Policy explains how we
 
 We use Firebase Cloud Messaging (FCM) to send push notifications to your device. To provide this service, we only send device tokens and notification content to Firebase. We do not use Firebase Analytics or collect any personal data through Firebase for tracking or analytical purposes.
 
+## Game Center Integration
+
+Our app integrates with Apple's Game Center to provide leaderboard functionality. We do not collect or store any Game Center data ourselves. All data related to Game Center, including leaderboards and achievements, is managed by Apple and subject to Apple’s privacy policy. We use Game Center to enhance your gaming experience by allowing you to compare scores and achievements with other players.
+
 ## Information We Collect
 
 We collect information that is necessary for the operation of the Application. This includes:
