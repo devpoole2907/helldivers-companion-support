@@ -1,6 +1,6 @@
-# Privacy Policy of [Your App Name]
+# Privacy Policy of War Monitor for Helldivers 2
 
-Effective Date: [Date]
+Effective Date: 23/03/2024
 
 We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use War Monitor for Helldivers 2. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the Application.
 
@@ -33,4 +33,4 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact us at cost.nouveau-0h@icloud.com.
