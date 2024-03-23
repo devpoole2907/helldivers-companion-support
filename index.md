@@ -4,7 +4,9 @@ If you're experiencing issues with War Monitor for Helldivers 2 or have any ques
 
 ## Contact Us
 
-For support inquiries, please email us at:
+For support inquiries, please file an issue [here](https://github.com/devpoole2907/helldivers-companion-support/issues).
+
+Or email us at:
 
 [cost.nouveau-0h@icloud.com](mailto:cost.nouveau-0h@icloud.com)
 
